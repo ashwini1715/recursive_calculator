@@ -2,9 +2,6 @@
 """
 Solutions to module 2 - A calculator
 Student: Ashwini Sandeep Akula
-Mail: ashwinisandeepakula2001@gmail.com
-Reviewed by: Ema Duljkovic
-Reviewed date: 2023/09/26
 """
 
 """
